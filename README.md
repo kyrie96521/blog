@@ -1,2 +1,2 @@
 📚  notebook of kyle
-kyleyang.club
+📚  kyleyang.club
