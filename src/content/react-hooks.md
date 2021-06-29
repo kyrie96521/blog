@@ -1,8 +1,8 @@
 ---
-title: "React-Hooks Review"
+title: "React-LifeCycle Review"
 date: "2021-06-28"
 draft: false
-path: "/blog/react-hooks"
+path: "/blog/react-LifeCycle"
 ---
 ### Life-cycle briefly intro
 
